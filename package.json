@@ -1,24 +1,27 @@
 {
-  "name": "nuxt-starter",
-  "version": "0.0.1",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare",
-    "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
-  },
-  "dependencies": {
-    "nuxt": "^3.10.2",
-    "vue": "^3.4.19",
-    "vue-router": "^4.2.5"
-  },
-  "devDependencies": {
-    "@nuxt/eslint-config": "^0.2.0",
-    "eslint": "^8.56.0"
-  }
+	"name": "nuxt-starter",
+	"version": "0.0.1",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview",
+		"postinstall": "nuxt prepare",
+		"lint": "eslint .",
+		"lint:fix": "eslint . --fix",
+		"format": "prettier --write ."
+	},
+	"dependencies": {
+		"nuxt": "^3.10.2",
+		"vue": "^3.4.19",
+		"vue-router": "^4.2.5"
+	},
+	"devDependencies": {
+		"@nuxt/eslint-config": "^0.2.0",
+		"eslint": "^8.56.0",
+		"eslint-config-prettier": "^9.1.0",
+		"prettier": "^3.2.5"
+	}
 }
