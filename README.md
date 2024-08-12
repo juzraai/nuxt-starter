@@ -9,9 +9,9 @@ This is an example / template respository which we can use to start a Nuxt 3 pro
 -   [Prettier](https://prettier.io/) with
     -   VS Code settings for auto-formatting on save
 -   [ESLint](https://eslint.org/) with
-    -   [Nuxt config](https://github.com/nuxt/eslint-config)
+    -   [Nuxt module](https://eslint.nuxt.com/packages/module)
     -   [Tailwind CSS plugin](https://github.com/francoismassart/eslint-plugin-tailwindcss)
-    -   [disabled formatting](https://github.com/prettier/eslint-config-prettier)
+    -   some custom rules
     -   and VS Code settings for auto-fixing on save
 -   [VS Code](https://code.visualstudio.com/) extension recommendations
 
