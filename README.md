@@ -5,6 +5,7 @@ This is an example / template respository which we can use to start a Nuxt 3 pro
 ## What's included
 
 - [Nuxt](https://nuxt.com/) (v3) minimal template with [TypeScript](https://www.typescriptlang.org/) support
+    - [Nuxt Typed Router module](https://nuxt-typed-router.vercel.app/)
 - [Tailwind CSS](https://tailwindcss.com/) (v3)
     - [Nuxt module](https://tailwindcss.nuxtjs.org/)
 - [Prettier](https://prettier.io/) with

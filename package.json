@@ -22,6 +22,7 @@
 		"@nuxtjs/tailwindcss": "6.13.2",
 		"eslint-plugin-tailwindcss": "^3.14.2",
 		"nuxt": "^3.16.2",
+		"nuxt-typed-router": "3.8.0",
 		"prettier": "^3.2.5",
 		"typescript": "^5.8.3"
 	},
